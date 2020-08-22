@@ -92,11 +92,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Developer"
   location         : "South Korea"
-  email            : "qwemnbv98@outlook.com"
+  email            : #"qwemnbv98@outlook.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "https://your-website.com"
+      url: "mailto:qwemnbv98@outlook.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://suminig.github.io/"
