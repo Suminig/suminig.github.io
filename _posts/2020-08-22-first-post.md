@@ -5,5 +5,5 @@ categories: jekyll update
 ---
 
 This is the first blog post of my github blog.\
-I have always think of making a blog but I have never take it action.\ 
+I have always think of making a blog but I have never take it action.\
 I will start my develop from now on. 
